@@ -6,7 +6,7 @@ class Solution {
         }
 
         for (int start = 0; start < nums.length; start++) {
-            for (int end = 0; end < nums.length; end++) {
+            for (int end = start; end < nums.length; end++) {
                 if (start == 0) {
                     if (nums[end] == k)
                         count++;
