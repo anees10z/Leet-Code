@@ -11,7 +11,7 @@ class Solution {
             prefix[i] = nums[i] + prefix[i - 1];
         }
         int end = nums.length - 1;
-        for (int i = 0; i < nums.length - 1; ++i) {
+        for (int i = 0; i < nums.length; ++i) {
             if (i == 0 && nums[i] == 0) {
                 leftSum = 0;
                 rightSum = prefix[end] - prefix[i];
