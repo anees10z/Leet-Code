@@ -25,7 +25,8 @@ class Solution {
         return count;
     }
 }
-
+// class Solution {
+//     public int countValidSelections(int[] nums) {
 // if (nums[0] == 0 && nums.length == 1)
 //     return 2;
 // int leftSum = 0, rightSum = 0;
@@ -62,4 +63,4 @@ class Solution {
 //     }
 // }
 // return count;
-}}
+// }}
