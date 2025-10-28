@@ -1,12 +1,14 @@
 class Solution {
     public int countValidSelections(int[] nums) {
-    
+
         int n = nums.length;
-        if (n == 1 && nums[0] == 0) return 2;
+        if (n == 1 && nums[0] == 0)
+            return 2;
 
         int[] prefix = new int[n];
         prefix[0] = nums[0];
-        for (int i = 1; i < n; i++) prefix[i] = prefix[i - 1] + nums[i];
+        for (int i = 1; i < n; i++)
+            prefix[i] = prefix[i - 1] + nums[i];
 
         int totalSum = prefix[n - 1];
         int count = 0;
@@ -17,8 +19,10 @@ class Solution {
                 int rightSum = (i == n - 1) ? 0 : totalSum - prefix[i];
 
                 int diff = Math.abs(leftSum - rightSum);
-                if (diff == 0) count += 2;
-                else if (diff == 1) count += 1;
+                if (diff == 0)
+                    count += 2;
+                else if (diff == 1)
+                    count += 1;
             }
         }
 
