@@ -4,10 +4,10 @@ class Solution {
         boolean res = true;
         while (n > 0) {
             int curr = 0;
-            if ((n & 1) != 0) {
-                curr = 1;
-            } else {
+            if ((n & 1) == 0) {
                 curr = 0;
+            } else {
+                curr = 1;
             }
 
             if(prev == curr){
