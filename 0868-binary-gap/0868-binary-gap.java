@@ -12,6 +12,9 @@ class Solution {
                     max = count;
                     r = l;
                     count = 0;
+                }else{
+                    r=l;
+                    count =0;
                 }
             } else if (curr == 1 && r != 1) {
                 r = 1;
