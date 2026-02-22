@@ -10,19 +10,17 @@ class Solution {
                 count++;
                 if (count >= max) {
                     max = count;
-                    r = l;
-                    count = 0;
-                }else{
-                    r=l;
-                    count =0;
                 }
+                r = l;
+                count = 0;
             } else if (curr == 1 && r != 1) {
                 r = 1;
                 count++;
             }
             n = n >> 1;
         }
-        if(count>max) max=count;
+        if (count > max)
+            max = count;
         return max;
     }
 }
