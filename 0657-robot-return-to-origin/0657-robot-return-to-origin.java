@@ -18,9 +18,7 @@ class Solution {
                     break;
             }
         }
-        if (x == 0 && y == 0)
-            return true;
-        else
-            return false;
+        return (x == 0 && y == 0);
+
     }
 }
