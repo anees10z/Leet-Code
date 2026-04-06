@@ -26,4 +26,12 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anees10z/Leet-Code/tree/master/0657-robot-return-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
