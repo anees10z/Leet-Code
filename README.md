@@ -34,4 +34,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
