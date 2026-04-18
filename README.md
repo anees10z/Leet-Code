@@ -54,6 +54,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
+| [3783-mirror-distance-of-an-integer](https://github.com/anees10z/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
 | ------- |
