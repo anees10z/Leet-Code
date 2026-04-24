@@ -14,6 +14,7 @@ Leet Code Problems Solutions
 | [0917-reverse-only-letters](https://github.com/anees10z/Leet-Code/tree/master/0917-reverse-only-letters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anees10z/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
+| [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
@@ -67,4 +68,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
