@@ -31,6 +31,7 @@ Leet Code Problems Solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anees10z/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anees10z/Leet-Code/tree/master/0344-reverse-string) |
@@ -81,6 +82,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anees10z/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -92,4 +94,5 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
