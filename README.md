@@ -81,6 +81,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anees10z/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anees10z/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0206-reverse-linked-list) |
