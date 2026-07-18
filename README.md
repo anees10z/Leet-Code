@@ -23,6 +23,7 @@ Leet Code Problems Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0896-monotonic-array](https://github.com/anees10z/Leet-Code/tree/master/0896-monotonic-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anees10z/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ Leet Code Problems Solutions
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anees10z/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
@@ -100,4 +102,8 @@ Leet Code Problems Solutions
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
