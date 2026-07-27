@@ -21,6 +21,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/anees10z/Leet-Code/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anees10z/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -63,6 +64,7 @@ Leet Code Problems Solutions
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anees10z/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
@@ -110,6 +112,7 @@ Leet Code Problems Solutions
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
