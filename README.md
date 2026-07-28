@@ -26,6 +26,7 @@ Leet Code Problems Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anees10z/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/anees10z/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
