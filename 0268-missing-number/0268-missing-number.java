@@ -11,7 +11,6 @@ class Solution {
         return res;
     }
 }
-
 // public int missingNumber(int[] nums) {
 //     int len = nums.length;
 //     int actualSum = len * (len + 1) / 2;
