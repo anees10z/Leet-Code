@@ -70,6 +70,7 @@ Leet Code Problems Solutions
 | [0461-hamming-distance](https://github.com/anees10z/Leet-Code/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/anees10z/Leet-Code/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/anees10z/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
 | ------- |
