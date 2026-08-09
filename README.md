@@ -71,12 +71,14 @@ Leet Code Problems Solutions
 | [0476-number-complement](https://github.com/anees10z/Leet-Code/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/anees10z/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anees10z/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
