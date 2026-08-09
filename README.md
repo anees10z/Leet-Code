@@ -27,6 +27,7 @@ Leet Code Problems Solutions
 | [0896-monotonic-array](https://github.com/anees10z/Leet-Code/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anees10z/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
@@ -72,6 +73,7 @@ Leet Code Problems Solutions
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/anees10z/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Leet Code Problems Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anees10z/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -144,9 +147,18 @@ Leet Code Problems Solutions
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anees10z/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Primality Test
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
