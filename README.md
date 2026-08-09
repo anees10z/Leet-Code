@@ -75,6 +75,7 @@ Leet Code Problems Solutions
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anees10z/Leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/anees10z/Leet-Code/tree/master/2595-number-of-even-and-odd-bits) |
 ## Math
 |  |
 | ------- |
