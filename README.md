@@ -20,6 +20,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anees10z/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anees10z/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
