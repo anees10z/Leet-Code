@@ -88,6 +88,7 @@ Leet Code Problems Solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anees10z/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -120,6 +121,7 @@ Leet Code Problems Solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anees10z/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anees10z/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anees10z/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anees10z/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -130,6 +132,7 @@ Leet Code Problems Solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anees10z/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anees10z/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
