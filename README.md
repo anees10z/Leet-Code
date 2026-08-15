@@ -182,4 +182,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
