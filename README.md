@@ -49,6 +49,7 @@ Leet Code Problems Solutions
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anees10z/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -92,6 +93,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anees10z/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -148,6 +150,7 @@ Leet Code Problems Solutions
 | [0001-two-sum](https://github.com/anees10z/Leet-Code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -192,4 +195,5 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
