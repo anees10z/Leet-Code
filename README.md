@@ -35,6 +35,7 @@ Leet Code Problems Solutions
 | [1929-concatenation-of-array](https://github.com/anees10z/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
@@ -119,6 +120,7 @@ Leet Code Problems Solutions
 ## Counting
 |  |
 | ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ Leet Code Problems Solutions
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Number Theory
 |  |
