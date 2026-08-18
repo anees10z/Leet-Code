@@ -20,6 +20,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anees10z/Leet-Code/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anees10z/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@ Leet Code Problems Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anees10z/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
@@ -73,6 +75,7 @@ Leet Code Problems Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anees10z/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
