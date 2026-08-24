@@ -1,7 +1,7 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         HashMap<Character, Character> map = new HashMap<>();
-
+        // please optimize it
         for (int i = 0; i < s.length(); ++i) {
             char tempS = s.charAt(i);
             char tempT = t.charAt(i);
