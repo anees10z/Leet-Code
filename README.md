@@ -6,6 +6,7 @@ Leet Code Problems Solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anees10z/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anees10z/Leet-Code/tree/master/0205-isomorphic-strings) |
@@ -121,6 +122,7 @@ Leet Code Problems Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
@@ -228,4 +230,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
