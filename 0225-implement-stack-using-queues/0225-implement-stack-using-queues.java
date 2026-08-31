@@ -8,11 +8,6 @@ class MyStack {
     }
 
     public void push(int x) {
-        // if(q1.isEmpty()){
-        //     q1.add(x);
-        //     return;
-        // }
-
         while (!q1.isEmpty()) {
             q2.add(q1.remove());
         }
