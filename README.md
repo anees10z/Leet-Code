@@ -126,6 +126,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/anees10z/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/anees10z/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
@@ -234,9 +235,14 @@ Leet Code Problems Solutions
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anees10z/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anees10z/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
