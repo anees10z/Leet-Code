@@ -257,4 +257,8 @@ Leet Code Problems Solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anees10z/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anees10z/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anees10z/Leet-Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
