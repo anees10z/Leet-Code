@@ -10,7 +10,6 @@ class Solution {
                 i++;
                 count++;
             }
-
             if (count > 1) {
                 chars[index] = curr;
                 if (count > 9) {
@@ -24,8 +23,7 @@ class Solution {
                     index++;
                     chars[index] = (char) (count + '0');
                 }
-
-            }else{
+            } else {
                 chars[index] = curr;
             }
             index++;
