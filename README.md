@@ -19,6 +19,7 @@ Leet Code Problems Solutions
 | [0657-robot-return-to-origin](https://github.com/anees10z/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/anees10z/Leet-Code/tree/master/0917-reverse-only-letters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anees10z/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anees10z/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
@@ -190,6 +191,7 @@ Leet Code Problems Solutions
 | [0242-valid-anagram](https://github.com/anees10z/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anees10z/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
