@@ -53,6 +53,7 @@ Leet Code Problems Solutions
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anees10z/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/anees10z/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,4 +267,8 @@ Leet Code Problems Solutions
 | ------- |
 | [0175-combine-two-tables](https://github.com/anees10z/Leet-Code/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/anees10z/Leet-Code/tree/master/0183-customers-who-never-order) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/anees10z/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
