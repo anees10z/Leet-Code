@@ -6,6 +6,7 @@ Leet Code Problems Solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anees10z/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anees10z/Leet-Code/tree/master/0038-count-and-say) |
@@ -190,6 +191,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anees10z/Leet-Code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anees10z/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
@@ -259,6 +261,7 @@ Leet Code Problems Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anees10z/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anees10z/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 ## Queue
 |  |
