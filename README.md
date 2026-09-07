@@ -24,6 +24,7 @@ Leet Code Problems Solutions
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anees10z/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anees10z/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
 ## Array
@@ -117,6 +118,7 @@ Leet Code Problems Solutions
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anees10z/Leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/anees10z/Leet-Code/tree/master/2595-number-of-even-and-odd-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
@@ -164,6 +166,7 @@ Leet Code Problems Solutions
 | [0229-majority-element-ii](https://github.com/anees10z/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
@@ -207,6 +210,7 @@ Leet Code Problems Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anees10z/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
