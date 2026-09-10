@@ -6,8 +6,8 @@ class Solution {
         }
         curr.add(nums[idx]);
         find(nums, res, idx + 1, curr);
-        curr.remove(curr.size()-1);
-        find(nums, res, idx+1, curr);
+        curr.remove(curr.size() - 1);
+        find(nums, res, idx + 1, curr);
 
     }
 
