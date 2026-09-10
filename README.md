@@ -37,6 +37,7 @@ Leet Code Problems Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/anees10z/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
@@ -110,6 +111,7 @@ Leet Code Problems Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anees10z/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
@@ -252,6 +254,7 @@ Leet Code Problems Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anees10z/Leet-Code/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
