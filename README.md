@@ -34,6 +34,7 @@ Leet Code Problems Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/anees10z/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anees10z/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
