@@ -48,6 +48,7 @@ Leet Code Problems Solutions
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/anees10z/Leet-Code/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anees10z/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -110,6 +111,7 @@ Leet Code Problems Solutions
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Leet Code Problems Solutions
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -244,6 +247,7 @@ Leet Code Problems Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
@@ -307,4 +311,20 @@ Leet Code Problems Solutions
 | ------- |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anees10z/Leet-Code/tree/master/0229-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
