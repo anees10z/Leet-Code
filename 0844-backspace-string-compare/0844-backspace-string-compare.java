@@ -18,13 +18,8 @@ class Solution {
                     st2.pop();
             }
         }
-        if (st1.size() != st2.size())
-            return false;
-        while (!st1.empty() && !st2.empty()) {
-            if (st1.pop() != st2.pop()) {
-                return false;
-            }
-        }
-        return true;
+        if (st1.equals(st2))
+            return true;
+        return false;
     }
 }
