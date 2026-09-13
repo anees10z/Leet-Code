@@ -1,5 +1,6 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
+        // try to do in space O(1)
         Stack<Character> st1 = new Stack<>();
         Stack<Character> st2 = new Stack<>();
         for (int i = 0; i < s.length(); ++i) {
