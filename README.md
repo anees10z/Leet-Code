@@ -7,6 +7,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anees10z/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/anees10z/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anees10z/Leet-Code/tree/master/0038-count-and-say) |
@@ -34,6 +35,7 @@ Leet Code Problems Solutions
 | [0001-two-sum](https://github.com/anees10z/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anees10z/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anees10z/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
@@ -337,4 +339,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anees10z/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
