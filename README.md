@@ -48,6 +48,7 @@ Leet Code Problems Solutions
 | [0219-contains-duplicate-ii](https://github.com/anees10z/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anees10z/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/anees10z/Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anees10z/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,6 +86,7 @@ Leet Code Problems Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/anees10z/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anees10z/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/anees10z/Leet-Code/tree/master/0443-string-compression) |
