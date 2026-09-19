@@ -40,6 +40,7 @@ Leet Code Problems Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anees10z/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@ Leet Code Problems Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anees10z/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anees10z/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
@@ -245,6 +247,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anees10z/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -347,4 +350,12 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anees10z/Leet-Code/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
