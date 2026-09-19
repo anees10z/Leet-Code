@@ -1,6 +1,7 @@
 class Solution {
     public int findNonMinOrMax(int[] nums) {
-        if (nums.length < 2)
+        // optimize this code for extra loop
+        if (nums.length < 3)
             return -1;
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
