@@ -6,13 +6,13 @@ class Solution {
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
         int len = nums.length;
-        for (int i = 0; i < len; ++i) {
+        for (int i = 0; i < 3; ++i) {
             if (nums[i] < min)
                 min = nums[i];
             if (nums[i] > max)
                 max = nums[i];
         }
-        for (int i = 0; i < len; ++i) {
+        for (int i = 0; i < 3; ++i) {
             if (nums[i] != min && nums[i] != max) {
                 return nums[i];
             }
