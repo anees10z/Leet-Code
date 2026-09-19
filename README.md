@@ -66,6 +66,7 @@ Leet Code Problems Solutions
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2733-neither-minimum-nor-maximum](https://github.com/anees10z/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anees10z/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/anees10z/Leet-Code/tree/master/3452-sum-of-good-numbers) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -263,6 +264,7 @@ Leet Code Problems Solutions
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2733-neither-minimum-nor-maximum](https://github.com/anees10z/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/anees10z/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
