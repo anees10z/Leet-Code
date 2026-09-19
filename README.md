@@ -45,6 +45,7 @@ Leet Code Problems Solutions
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anees10z/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anees10z/Leet-Code/tree/master/0229-majority-element-ii) |
@@ -123,6 +124,7 @@ Leet Code Problems Solutions
 | [0148-sort-list](https://github.com/anees10z/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -250,6 +252,7 @@ Leet Code Problems Solutions
 | [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anees10z/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anees10z/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anees10z/Leet-Code/tree/master/0242-valid-anagram) |
@@ -264,6 +267,7 @@ Leet Code Problems Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
@@ -358,4 +362,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
