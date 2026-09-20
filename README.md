@@ -28,6 +28,7 @@ Leet Code Problems Solutions
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
@@ -116,6 +117,7 @@ Leet Code Problems Solutions
 | [0844-backspace-string-compare](https://github.com/anees10z/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/anees10z/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anees10z/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
