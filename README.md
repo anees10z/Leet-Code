@@ -69,6 +69,7 @@ Leet Code Problems Solutions
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anees10z/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anees10z/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anees10z/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3452-sum-of-good-numbers](https://github.com/anees10z/Leet-Code/tree/master/3452-sum-of-good-numbers) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -213,6 +214,7 @@ Leet Code Problems Solutions
 | [0328-odd-even-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/anees10z/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anees10z/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -242,6 +244,7 @@ Leet Code Problems Solutions
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anees10z/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
 |  |
