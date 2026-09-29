@@ -20,6 +20,7 @@ Leet Code Problems Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/anees10z/Leet-Code/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/anees10z/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/anees10z/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/anees10z/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/anees10z/Leet-Code/tree/master/0917-reverse-only-letters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -192,6 +193,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/anees10z/Leet-Code/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
