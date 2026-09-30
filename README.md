@@ -32,6 +32,7 @@ Leet Code Problems Solutions
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anees10z/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
 ## Array
@@ -255,6 +256,7 @@ Leet Code Problems Solutions
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anees10z/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anees10z/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
