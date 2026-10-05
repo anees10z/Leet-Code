@@ -61,6 +61,7 @@ Leet Code Problems Solutions
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anees10z/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/anees10z/Leet-Code/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
@@ -205,6 +206,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/anees10z/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anees10z/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
@@ -285,6 +287,7 @@ Leet Code Problems Solutions
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -326,6 +329,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anees10z/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sliding Window
 |  |
 | ------- |
@@ -396,4 +400,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
