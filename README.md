@@ -26,6 +26,7 @@ Leet Code Problems Solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anees10z/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anees10z/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anees10z/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anees10z/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -202,6 +203,7 @@ Leet Code Problems Solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anees10z/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anees10z/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
@@ -216,6 +218,7 @@ Leet Code Problems Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anees10z/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anees10z/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anees10z/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
@@ -357,6 +360,7 @@ Leet Code Problems Solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anees10z/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anees10z/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
