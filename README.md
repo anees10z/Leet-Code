@@ -49,6 +49,7 @@ Leet Code Problems Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anees10z/Leet-Code/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/anees10z/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anees10z/Leet-Code/tree/master/0075-sort-colors) |
@@ -259,6 +260,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0001-two-sum](https://github.com/anees10z/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anees10z/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/anees10z/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anees10z/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anees10z/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
