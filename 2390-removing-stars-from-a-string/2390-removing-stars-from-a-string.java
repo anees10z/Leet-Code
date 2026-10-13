@@ -1,13 +1,29 @@
 class Solution {
     public String removeStars(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        for (int i = 0; i < sb.length(); i++) {
-            char curr = sb.charAt(i);
+        StringBuilder sb = new StringBuilder();
+        int len = s.length();
+        for (int i = 0; i < len; i++) {
+            char curr = s.charAt(i);
             if (curr == '*') {
-                sb.delete(i - 1, i + 1);
-                i -= 2;
+                int sbLen = sb.length();
+                sb.delete(sbLen - 1, sbLen);
+            } else {
+                sb.append(curr);
             }
         }
         return sb.toString();
     }
 }
+// class Solution {
+//     public String removeStars(String s) {
+//         StringBuilder sb = new StringBuilder(s);
+//         for (int i = 0; i < sb.length(); i++) {
+//             char curr = sb.charAt(i);
+//             if (curr == '*') {
+//                 sb.delete(i - 1, i + 1);
+//                 i -= 2;
+//             }
+//         }
+//         return sb.toString();
+//     }
+// }
