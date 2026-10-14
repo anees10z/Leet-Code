@@ -66,6 +66,7 @@ Leet Code Problems Solutions
 | [0217-contains-duplicate](https://github.com/anees10z/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anees10z/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anees10z/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anees10z/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anees10z/Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
@@ -137,6 +138,7 @@ Leet Code Problems Solutions
 | [0035-search-insert-position](https://github.com/anees10z/Leet-Code/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anees10z/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anees10z/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -160,6 +162,7 @@ Leet Code Problems Solutions
 | [0169-majority-element](https://github.com/anees10z/Leet-Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anees10z/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -435,4 +438,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/anees10z/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
