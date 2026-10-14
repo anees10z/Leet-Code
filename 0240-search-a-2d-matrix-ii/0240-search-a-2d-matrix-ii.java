@@ -3,6 +3,7 @@ class Solution {
         while (low <= high) {
             int mid = low + (high - low) / 2;
             int midVal = matrix[i][mid];
+            
             if (midVal == target)
                 return true;
             else if (midVal > target)
@@ -15,9 +16,10 @@ class Solution {
 
     public boolean searchMatrix(int[][] matrix, int target) {
         int row = matrix.length;
+        int col = matrix[0].length-1;
 
         for (int i = 0; i < row; i++) {
-            if (binarySearch(matrix, i, 0, matrix[i].length - 1, target))
+            if (binarySearch(matrix, i, 0, col, target))
                 return true;
         }
         return false;
