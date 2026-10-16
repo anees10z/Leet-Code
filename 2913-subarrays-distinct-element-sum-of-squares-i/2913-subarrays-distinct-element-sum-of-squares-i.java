@@ -7,7 +7,7 @@ class Solution {
         for (int i = 0; i < len; ++i) {
             for (int j = i; j < len; j++) {
                 set.add(nums.get(j));
-                sum += Math.pow(set.size(), 2);
+                sum += (int) Math.pow(set.size(), 2);
             }
             set.clear();
 
