@@ -189,6 +189,7 @@ Leet Code Problems Solutions
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anees10z/Leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/anees10z/Leet-Code/tree/master/2595-number-of-even-and-odd-bits) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/anees10z/Leet-Code/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
@@ -207,6 +208,7 @@ Leet Code Problems Solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anees10z/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anees10z/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/anees10z/Leet-Code/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/anees10z/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anees10z/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anees10z/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
