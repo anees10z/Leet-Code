@@ -12,7 +12,7 @@ class Solution {
                 low++;
                 high--;
             } else if (nums[mid] >= nums[low]) {
-                if (nums[low] <= target && target < nums[mid]) {
+                if (nums[mid] > target && target >= nums[low]) {
                     high = mid - 1;
                 } else {
                     low = mid + 1;
