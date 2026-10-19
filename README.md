@@ -86,6 +86,7 @@ Leet Code Problems Solutions
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/anees10z/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anees10z/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anees10z/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -144,6 +145,7 @@ Leet Code Problems Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/anees10z/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anees10z/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anees10z/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Simulation
@@ -328,6 +330,7 @@ Leet Code Problems Solutions
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anees10z/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anees10z/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anees10z/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/anees10z/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
