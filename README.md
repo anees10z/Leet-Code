@@ -157,6 +157,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anees10z/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/anees10z/Leet-Code/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/anees10z/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/anees10z/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/anees10z/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anees10z/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -205,6 +206,7 @@ Leet Code Problems Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/anees10z/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/anees10z/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anees10z/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
