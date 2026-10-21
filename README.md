@@ -41,6 +41,7 @@ Leet Code Problems Solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/anees10z/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/anees10z/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
