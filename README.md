@@ -202,6 +202,7 @@ Leet Code Problems Solutions
 | [0009-palindrome-number](https://github.com/anees10z/Leet-Code/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/anees10z/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anees10z/Leet-Code/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/anees10z/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -288,6 +289,7 @@ Leet Code Problems Solutions
 | [0021-merge-two-sorted-lists](https://github.com/anees10z/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/anees10z/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anees10z/Leet-Code/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
