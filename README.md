@@ -76,6 +76,7 @@ Leet Code Problems Solutions
 | [0283-move-zeroes](https://github.com/anees10z/Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anees10z/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
@@ -312,6 +313,7 @@ Leet Code Problems Solutions
 | [0242-valid-anagram](https://github.com/anees10z/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anees10z/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/anees10z/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -422,6 +424,7 @@ Leet Code Problems Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/anees10z/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anees10z/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Boyer–Moore Majority Vote Algorithm
