@@ -232,6 +232,7 @@ Leet Code Problems Solutions
 | [0020-valid-parentheses](https://github.com/anees10z/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anees10z/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anees10z/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -496,12 +497,14 @@ Leet Code Problems Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -512,5 +515,6 @@ Leet Code Problems Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
