@@ -33,7 +33,7 @@ class Solution {
         if (res1.size() != res2.size())
             return false;
         for (int i = 0; i < res1.size(); i++) {
-            if (!Objects.equals(res1.get(i), res2.get(i)))
+            if (!Objects.equals(res1.get(i), res2.get(i))) // compares Integer object values
                 return false;
         }
         return true;
