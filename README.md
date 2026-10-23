@@ -103,6 +103,7 @@ Leet Code Problems Solutions
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anees10z/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3452-sum-of-good-numbers](https://github.com/anees10z/Leet-Code/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anees10z/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anees10z/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anees10z/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anees10z/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -194,6 +195,7 @@ Leet Code Problems Solutions
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/anees10z/Leet-Code/tree/master/2595-number-of-even-and-odd-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anees10z/Leet-Code/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anees10z/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
