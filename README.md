@@ -498,6 +498,7 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -505,17 +506,20 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
