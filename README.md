@@ -503,6 +503,7 @@ Leet Code Problems Solutions
 | [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/anees10z/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -511,11 +512,13 @@ Leet Code Problems Solutions
 | [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/anees10z/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
+| [0404-sum-of-left-leaves](https://github.com/anees10z/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -524,5 +527,6 @@ Leet Code Problems Solutions
 | [0100-same-tree](https://github.com/anees10z/Leet-Code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/anees10z/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
