@@ -63,6 +63,7 @@ Leet Code Problems Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anees10z/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anees10z/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/anees10z/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anees10z/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anees10z/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -398,6 +399,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/anees10z/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anees10z/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/anees10z/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sliding Window
 |  |
