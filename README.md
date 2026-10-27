@@ -432,6 +432,7 @@ Leet Code Problems Solutions
 | [0176-second-highest-salary](https://github.com/anees10z/Leet-Code/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/anees10z/Leet-Code/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/anees10z/Leet-Code/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/anees10z/Leet-Code/tree/master/0184-department-highest-salary) |
 ## Prefix Sum
 |  |
 | ------- |
