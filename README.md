@@ -80,6 +80,7 @@ Leet Code Problems Solutions
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anees10z/Leet-Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anees10z/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anees10z/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/anees10z/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,6 +218,7 @@ Leet Code Problems Solutions
 | [0326-power-of-three](https://github.com/anees10z/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anees10z/Leet-Code/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/anees10z/Leet-Code/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anees10z/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1360-number-of-days-between-two-dates](https://github.com/anees10z/Leet-Code/tree/master/1360-number-of-days-between-two-dates) |
