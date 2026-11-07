@@ -199,6 +199,7 @@ Leet Code Problems Solutions
 | [0476-number-complement](https://github.com/anees10z/Leet-Code/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/anees10z/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anees10z/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anees10z/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anees10z/Leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
