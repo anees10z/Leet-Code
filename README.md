@@ -44,6 +44,7 @@ Leet Code Problems Solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/anees10z/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/anees10z/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ Leet Code Problems Solutions
 | [2000-reverse-prefix-of-word](https://github.com/anees10z/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Leet Code Problems Solutions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anees10z/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
