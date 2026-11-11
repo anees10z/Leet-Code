@@ -85,6 +85,7 @@ Leet Code Problems Solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anees10z/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anees10z/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/anees10z/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/anees10z/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
@@ -259,6 +260,7 @@ Leet Code Problems Solutions
 | [0232-implement-queue-using-stacks](https://github.com/anees10z/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anees10z/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/anees10z/Leet-Code/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/anees10z/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/anees10z/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anees10z/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anees10z/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
@@ -338,6 +340,7 @@ Leet Code Problems Solutions
 | [0242-valid-anagram](https://github.com/anees10z/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/anees10z/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anees10z/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -556,4 +559,8 @@ Leet Code Problems Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/anees10z/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/anees10z/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anees10z/Leet-Code/tree/master/0637-average-of-levels-in-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anees10z/Leet-Code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
