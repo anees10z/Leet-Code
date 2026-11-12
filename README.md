@@ -110,6 +110,7 @@ Leet Code Problems Solutions
 | [2778-sum-of-squares-of-special-elements](https://github.com/anees10z/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anees10z/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anees10z/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anees10z/Leet-Code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anees10z/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3452-sum-of-good-numbers](https://github.com/anees10z/Leet-Code/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anees10z/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
