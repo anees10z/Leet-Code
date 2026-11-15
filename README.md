@@ -231,6 +231,7 @@ Leet Code Problems Solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anees10z/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1137-n-th-tribonacci-number](https://github.com/anees10z/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/anees10z/Leet-Code/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/anees10z/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
@@ -420,6 +421,7 @@ Leet Code Problems Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anees10z/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anees10z/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/anees10z/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -564,4 +566,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anees10z/Leet-Code/tree/master/0496-next-greater-element-i) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anees10z/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
