@@ -22,7 +22,7 @@ class Solution {
 
 // class Solution {
 //     public int tribonacci(int n) {
-//         int[] f = new int[3 + n];
+//         int[] f = new int[3+n];
 //         f[0] = 0;
 //         f[1] = 1;
 //         f[2] = 1;
