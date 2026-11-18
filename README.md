@@ -41,6 +41,7 @@ Leet Code Problems Solutions
 | [2351-first-letter-to-appear-twice](https://github.com/anees10z/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/anees10z/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/anees10z/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anees10z/Leet-Code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anees10z/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/anees10z/Leet-Code/tree/master/3794-reverse-string-prefix) |
