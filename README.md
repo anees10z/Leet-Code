@@ -91,6 +91,7 @@ Leet Code Problems Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anees10z/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/anees10z/Leet-Code/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
@@ -171,6 +172,7 @@ Leet Code Problems Solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/anees10z/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anees10z/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anees10z/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anees10z/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/anees10z/Leet-Code/tree/master/2540-minimum-common-value) |
@@ -575,4 +577,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/anees10z/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anees10z/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
