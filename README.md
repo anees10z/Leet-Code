@@ -12,6 +12,7 @@ Leet Code Problems Solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anees10z/Leet-Code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/anees10z/Leet-Code/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/anees10z/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anees10z/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anees10z/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anees10z/Leet-Code/tree/master/0205-isomorphic-strings) |
@@ -183,6 +184,7 @@ Leet Code Problems Solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anees10z/Leet-Code/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/anees10z/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/anees10z/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/anees10z/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
@@ -207,6 +209,7 @@ Leet Code Problems Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anees10z/Leet-Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anees10z/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anees10z/Leet-Code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anees10z/Leet-Code/tree/master/0191-number-of-1-bits) |
@@ -232,6 +235,7 @@ Leet Code Problems Solutions
 | [0007-reverse-integer](https://github.com/anees10z/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anees10z/Leet-Code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anees10z/Leet-Code/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/anees10z/Leet-Code/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/anees10z/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anees10z/Leet-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/anees10z/Leet-Code/tree/master/0326-power-of-three) |
