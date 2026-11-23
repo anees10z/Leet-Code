@@ -98,6 +98,7 @@ Leet Code Problems Solutions
 | [0912-sort-an-array](https://github.com/anees10z/Leet-Code/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/anees10z/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anees10z/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anees10z/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anees10z/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anees10z/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -241,6 +242,7 @@ Leet Code Problems Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anees10z/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/anees10z/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anees10z/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/anees10z/Leet-Code/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/anees10z/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/anees10z/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
@@ -461,6 +463,7 @@ Leet Code Problems Solutions
 | [0155-min-stack](https://github.com/anees10z/Leet-Code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anees10z/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anees10z/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anees10z/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 ## Database
 |  |
 | ------- |
@@ -476,6 +479,7 @@ Leet Code Problems Solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anees10z/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anees10z/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/anees10z/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anees10z/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -586,4 +590,8 @@ Leet Code Problems Solutions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anees10z/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anees10z/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
