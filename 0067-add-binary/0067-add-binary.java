@@ -33,11 +33,7 @@ class Solution {
             } else if ((currA == '1' && currB == '0') && c == '1') {
                 res.insert(0, "0");
                 carry.setCharAt(0, '1');
-            }else if ((currA == '0' && currB == '1') && c == '1') {
-                res.insert(0, "0");
-                carry.setCharAt(0, '1');
-            } 
-            else if ((currA == '1' && currB == '1') && c == '0') {
+            } else if ((currA == '1' && currB == '1') && c == '0') {
                 res.insert(0, "0");
                 carry.setCharAt(0, '1');
             } else if ((currA == '1' && currB == '1') && c == '1') {
