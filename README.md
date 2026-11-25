@@ -93,6 +93,7 @@ Leet Code Problems Solutions
 | [0496-next-greater-element-i](https://github.com/anees10z/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anees10z/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anees10z/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/anees10z/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anees10z/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/anees10z/Leet-Code/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anees10z/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -448,6 +449,7 @@ Leet Code Problems Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/anees10z/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anees10z/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anees10z/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/anees10z/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
 | ------- |
